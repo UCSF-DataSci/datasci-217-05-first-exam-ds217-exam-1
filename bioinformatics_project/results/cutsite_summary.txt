@@ -1,0 +1,7 @@
+Total number of cut site pairs found: 2628
+Positions of the first 5 cut site pairs:
+1. 24530 - 105312
+2. 24530 - 106746
+3. 24530 - 107897
+4. 24530 - 109708
+5. 24530 - 117954
