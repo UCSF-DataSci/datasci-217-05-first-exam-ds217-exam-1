@@ -1,0 +1,7 @@
+Total number of cut site pairs found: 2006
+Positions of the first 5 pairs:
+Pair 1: Start = 3722, End = 84421, Distance = 80699 bp
+Pair 2: Start = 3722, End = 85747, Distance = 82025 bp
+Pair 3: Start = 3722, End = 90849, Distance = 87127 bp
+Pair 4: Start = 3722, End = 94098, Distance = 90376 bp
+Pair 5: Start = 3722, End = 96317, Distance = 92595 bp
